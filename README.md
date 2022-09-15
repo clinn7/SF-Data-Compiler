@@ -1,7 +1,10 @@
 # SF-Data-Compiler
 Gathers API table data points to present in text file with conditional messaging
+
 Overview
+
 The program utilizes Python along with the pandas and Simple Salesforce packages to accomplish 9 main functions:
+
 1.	Receiving input from the user.
 2.	Providing SalesForce API credentials via configuration file (.CONFIG).
 3.	Querying SalesForce API for tables and columns defined via configuration file.
